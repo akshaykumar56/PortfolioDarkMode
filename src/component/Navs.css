@@ -1,0 +1,8 @@
+.nav-links:hover {
+    background-color:green;
+    -webkit-transition-delay:1s;
+  -moz-transition-delay: 1s;
+  -o-transition-delay: 1s;
+  transition-delay: 1s;
+    color: white;
+    }

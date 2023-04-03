@@ -1,0 +1,5 @@
+.nav-links:hover {
+background-color:green; 
+transition-delay:0.3s;
+color: white;
+}
